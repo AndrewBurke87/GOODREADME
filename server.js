@@ -33,7 +33,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'What command should be used to run dependacies?',
+        message: 'What commands need to be run to install dependancies?',
         name: 'dependancies'
     },
     {
@@ -42,14 +42,13 @@ const questions = [
         name: 'test'
     },
     {
-        type: 'input',
-        message: 'What does the user need to know about using the repo?',
-        name: 'info'
-    },
-    {
-        type: 'input',
-        message: 'What does the user need to know about contributing to the repo?',
-        name: 'contributions'
+        type: 'list',
+        message: 'Would you like to allow others to contribute to this repo?',
+        name: 'contributions',
+        choices: [
+            "Yes",
+            "No"
+        ]
     },
 ];
 

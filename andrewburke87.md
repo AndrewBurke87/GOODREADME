@@ -1,6 +1,4 @@
-// function to generate markdown for README
-function generateMarkdown(data) {
-     return `# **${data.title}** 
+# **title** 
 
   # Table of Contents
      * [Project Description](#project - description)
@@ -12,28 +10,23 @@ function generateMarkdown(data) {
      * [Questions](#questions)
 
   # Github username
-     ${data.username} 
+     AndrewBurke87 
 
   # Project Description 
-     ${data.description}
+     a brief description 
 
   # Licenses
-     ${data.licenses} 
+     MIT 
 
   # Installation
-     ${data.dependancies} 
+     npm i 
 
   # Test
-     ${data.test}  
+     'test  
 
   # Contributions
-     ${data.contributions}
+     No
      
   # Questions
      If you have any questions, please contact the project owner by clicking on the email listed below. 
-     ${data.email}
-`;
-}
-
-module.exports = generateMarkdown;
-
+     DrewBurke39@gmail.com
