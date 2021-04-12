@@ -2,3 +2,6 @@ This is a file that will generate a professional looking readme using node for p
 
 Github:
 https://github.com/AndrewBurke87/GOODREADME
+
+screencastify:
+https://drive.google.com/file/d/10g8bp5PhMUFA1iN1fRUFXaDUKmMsYSBk/preview

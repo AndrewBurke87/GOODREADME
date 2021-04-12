@@ -1,4 +1,4 @@
-# **title** 
+# **goodReadme** 
 
   # Table of Contents
      * [Project Description](#project - description)
@@ -13,20 +13,20 @@
      AndrewBurke87 
 
   # Project Description 
-     a brief description 
+     generate a professional README FILE
 
   # Licenses
      MIT 
 
   # Installation
-     npm i 
+     npm install 
 
   # Test
-     'test  
+     test  
 
   # Contributions
      No
      
   # Questions
      If you have any questions, please contact the project owner by clicking on the email listed below. 
-     DrewBurke39@gmail.com
+     drewburke39@gmail.com
