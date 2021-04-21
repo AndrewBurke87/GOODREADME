@@ -1,4 +1,4 @@
-# **goodReadme** 
+# **Workout Tracker** 
 
   # Table of Contents
      * [Project Description](#project - description)
@@ -13,20 +13,20 @@
      AndrewBurke87 
 
   # Project Description 
-     generate a professional README FILE
+      I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled
 
   # Licenses
      MIT 
 
   # Installation
-     npm install 
+     npm i 
 
   # Test
-     test  
+     n/a  
 
   # Contributions
      No
      
   # Questions
      If you have any questions, please contact the project owner by clicking on the email listed below. 
-     drewburke39@gmail.com
+     Drewburke39@gmail.com
